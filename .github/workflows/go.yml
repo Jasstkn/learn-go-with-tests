@@ -31,10 +31,10 @@ jobs:
         fi
 
     - name: Build
-      run: go build -v .
+      run: go build -v ./arrays_slices
 
     - name: Test
-      run: go test -v .
+      run: go test -v ./arrays_slices
 
     - name: gcov2lcov-action
       uses: jandelgado/gcov2lcov-action@v1.0.2
