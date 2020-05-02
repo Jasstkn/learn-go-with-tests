@@ -4,3 +4,4 @@ Github repository for code from [Learn Go with tests](https://quii.gitbook.io/le
 1. [Hello world](./hello/README.md)
 2. [Integers](./integers/README.md)
 3. [Iteration](./iteration/README.md)
+4. [Arrays and slices](./arrays_slices/README.md)
