@@ -6,3 +6,4 @@ Github repository for code from [Learn Go with tests](https://quii.gitbook.io/le
 3. [Iteration](./iteration/)
 4. [Arrays and slices](./arrays_slices/)
 5. [Structs, methods & interfaces](./structs_methods_interfaces/)
+6. [Pointers & errors ](./pointers_errors/)
